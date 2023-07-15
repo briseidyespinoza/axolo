@@ -1,0 +1,141 @@
+body{
+    /*Hacemos mención de que se cambiara 
+    el color de nuestro body de html*/
+    background-color: #f3e5e5;
+    color:#000000;/*Cambia el color del texto*/
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{/*Cambiamos el color del parrafo*/
+    color:#000000;
+}
+
+.titulo{/*Color del titulo*/
+    color:#0a996f;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    color: #d02941;
+    text-align: center;
+}
+.texto-justificado{/*Justificamos parrafo*/
+    text-align:justify;
+    
+}
+.texto1{
+    background-color: #e0ffff;
+    text-align:justify;
+}
+.texto2{
+    background-color: #ffb6c1;
+    text-align:justify;
+}
+.texto3{
+    background-color: #d2b48c;
+    text-align:justify;
+}
+.texto4{
+    background-color: #d8bfd8;
+    text-align:justify;
+}
+.texto5{
+    background-color: #d4d571;
+    text-align:justify;
+}
+.texto6{
+    background-color: #9ce0db;
+    text-align:justify;
+}
+/*Se edica el tamaño de la imagen*/
+
+.imagen2{
+    width: 28%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen3{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen4{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen5{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen6{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen7{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+.imagen8{
+    width: 20%;
+    display: flex;
+    margin-left:65%;
+    border-radius: 10px;/*Radio*/
+}
+/*Titulo*/
+
+/*Etiquetas de Parrafos*/
+h3{
+    background-color: #64c27b;
+
+}
+.t1{
+    background-color: #5ccda7; 
+}
+.t2{
+    background-color: #ca668b;
+
+}
+.t3{
+    background-color: #c57d56; 
+}
+.t4{
+    background-color: #81638b; 
+}
+.t5{
+    background-color: #8db600; 
+}
+.t6{
+    background-color: #5ccda7; 
+}
+/**Anclas o menu*/
+a{
+    color:#009d71 ;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+.menu{
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+   
+}
+/*
+selector{
+    propiedades:valor;
+}
+*/
+.refe1{
+    text-align:justify;
+}
